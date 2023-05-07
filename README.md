@@ -12,6 +12,10 @@ Siamo sempre alla ricerca delle ultime tecnologie e tendenze per offrire soluzio
 ### Andrea Carratta
 #### Senior Backend & Cloud Developer | Microsoft Azure Cloud | Azure DevOps
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/acarratta/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCjZsrUC0ZUN42PiBVzMUXcg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devandreacarratta.it/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devandreacarratta)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devandreacarratta.it)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dev_acarratta)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devandreacarratta.it/)  
+
+
 Progettare ed offrire soluzioni complete richiede anche un continuo processo di studio ed aggiornamento. Restare al passo con la tecnologia è fondamentale nel mio lavoro. Ogni processo deve garantire il risultato desiderato attraverso una serie di piccoli step come se fosse una melodia piacevole da ascoltare. Analisi, scelta della risorse da utilizzare e codice ottimizzato garantiscono ottime performance per fare la differenza.
 
 Sono uno “sviluppatore curioso” da sempre. Mi piace imparare nuove tecniche di programmazione tramite lo studio di sorgenti e la documentazione realizzata da altri colleghi e resa pubblica.
@@ -20,8 +24,12 @@ Le mie competenze principali vertono all’interno dell’ecosistema Microsoft. 
 
 Utilizzo Azure come Cloud e negli ultimi anni mi sono specializzato principalmente nell’utilizzo di Azure Function, Azure Data Factory, Data Lake Analytics, SQL Server & Cosmos DB per lo sviluppo di micro servizi per la realizzazione di soluzioni complesse.
 
+
+
 ### André Dominic Santacroce
 #### Senior Software Architect | Cloud Addicted | C# Backend Developer | ’83
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andresantacroce/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.andresantacroce.com/)  
 
 Fin da giovane, ho sempre avuto una passione smisurata per i numeri e le materie scientifiche. Quando mi sono approcciato per la prima volta al computer, ho capito che la mia vera vocazione era la tecnologia e la sua continua evoluzione. La mia determinazione mi ha aiutato a conseguire una Laurea in Ingegneria Informatica con lode.
 
